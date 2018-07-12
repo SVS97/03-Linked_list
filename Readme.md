@@ -14,3 +14,7 @@
 5. linked_list_count_identical – 	returns the number of elements in a list, which are equal to the given one
 6. linked_list_reverse – 		reverse the order of items in the list
 7. linked_list_sort – 			given the compare function sorts list items (ascending or descending)
+
+
+### Example of program work
+![Example](https://github.com/SVS97/03-Linked_list/blob/master/linked_list.png "Linked List")
